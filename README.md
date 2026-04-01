@@ -1,5 +1,5 @@
 <h1 align="center"> <strong>Agustina Armendariz</strong></h1>
-### Frontend Developer Freelance
+## Frontend Developer Freelance
 
 ## Desarrollo interfaces **minimalistas de alto rendimiento**. Transformo ideas complejas en experiencias digitales fluidas e intuitivas.
 
