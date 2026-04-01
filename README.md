@@ -1,7 +1,6 @@
 <h1 align="center"> <strong>Agustina Armendariz</strong></h1>
-## Frontend Developer Freelance
 
-## Desarrollo interfaces **minimalistas de alto rendimiento**. Transformo ideas complejas en experiencias digitales fluidas e intuitivas.
+## Frontend Developer Freelance || Desarrollo interfaces **minimalistas de alto rendimiento**. Transformo ideas complejas en experiencias digitales fluidas e intuitivas.
 
 ## Perfil Profesional
 Con un sólido pensamiento analítico derivado de mi formación en Derecho, me especializo en la construcción de productos digitales escalables y de alta fidelidad. Mi enfoque combina la precisión técnica con una estética visual limpia, priorizando siempre la experiencia del usuario y el rendimiento del código.
