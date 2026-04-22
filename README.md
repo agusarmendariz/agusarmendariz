@@ -57,6 +57,6 @@ Tecnologías: Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL
 ## 📬 Contacto
 📎 LinkedIn: www.linkedin.com/in/agustina-armendariz  
 📧 Email: armendarizagustina.m@gmail.com
-📁 https://agustina-armendariz-portfolio.vercel.app/"
+📁 https://agustina-armendariz-portfolio.vercel.app/
 
 
